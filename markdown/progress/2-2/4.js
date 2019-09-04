@@ -1,0 +1,1 @@
+instance.[__proto__...] === instance.constructor.prototype
