@@ -53,6 +53,30 @@ sidebar: auto
 
 [解析：第 10 题](/answer/10.html)
 
+## 第-11-题：模拟实现一个new
+
+[解析：第 11 题](/answer/11.html)
+
+## 第-12-题：描述一下节流和防抖并简单实现
+
+[解析：第 12 题](/answer/12.html)
+
+## 第-13-题：模拟实现call和apply，并简述两者区别以及哪个性能更好
+
+[解析：第 13 题](/answer/13.html)
+
+## 第-14-题：在第七题的基础上增加可拖拽效果
+
+[解析：第 14 题](/answer/14.html)
+
+## 第-15-题：介绍下重绘和回流（Repaint & Reflow），以及如何进行优化
+
+[解析：第 15 题](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/24)
+
+## 第-16-题：介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景
+
+[解析：第 16 题](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/25)
+
 <sky-dream></sky-dream>
 
 <style>
