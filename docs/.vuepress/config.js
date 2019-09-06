@@ -62,8 +62,7 @@ module.exports = {
                 children: [
                     '/progress/5/1',
                     '/progress/5/2',
-                    '/progress/5/3',
-                    '/progress/5/4'
+                    '/progress/5/3'
                 ]
             },
             {

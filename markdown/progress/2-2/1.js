@@ -5,5 +5,5 @@ Foo.prototype.getName = function() {
   	return this.name;
 }
 Foo.prototype.length = 3;
-let foo = new Foo('muyiy'); // 相当于 foo.__proto__ = Foo.prototype
+let foo = new Foo('longnx'); // 相当于 foo.__proto__ = Foo.prototype
 console.dir(foo);

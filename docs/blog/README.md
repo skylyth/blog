@@ -40,30 +40,30 @@
 - [【进阶 4-3 期】call和apply原理、使用场景及实现](/progress/4/3.html)
 - [【进阶 4-4 期】bind原理、使用场景及实现](/progress/4/4.html)
 - [【进阶 4-5 期】深度解析new原理及模拟实现](/progress/4/5.html)
-- 正在努力写作中
 
 ### 第五周：深浅拷贝原理
 
-- [【进阶 5-1 期】深浅拷贝原理1](/progress/5/1.html)
-- [【进阶 5-2 期】深浅拷贝原理2](/progress/5/2.html)
-- [【进阶 5-3 期】深浅拷贝原理3](/progress/5/3.html)
-- [【进阶 5-4 期】深浅拷贝原理4](/progress/5/4.html)
-- 正在努力写作中
+- [【进阶 5-1 期】详细解析赋值、浅拷贝和深拷贝的区别](/progress/5/1.html)
+- [【进阶 5-2 期】Object.assign 原理及其实现](/progress/5/2.html)
+- [【进阶 5-3 期】面试题之如何实现一个深拷贝](/progress/5/3.html)
 
 ### 第六周：vue,react源码初识
 
 - [【进阶 6-1 期】vue源码初识](/progress/6/1.html)
 - [【进阶 6-2 期】react源码初识](/progress/6/2.html)
+- 正在努力写作中
 
 ### 第七周：工程化与前端自动化测试
 
 - [【进阶 7-1 期】工程化](/progress/7/1.html)
 - [【进阶 7-2 期】react源码初识](/progress/7/2.html)
+- 正在努力写作中
 
 ### 第八周：前端安全及性能优化
 
 - [【进阶 8-1 期】前端安全](/progress/8/1.html)
 - [【进阶 8-2 期】性能优化](/progress/8/2.html)
+- 正在努力写作中
 
 <sky-dream></sky-dream>
 
