@@ -1,0 +1,1 @@
+fBound.prototype = Object.create(this.prototype);

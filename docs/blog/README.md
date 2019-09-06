@@ -36,9 +36,10 @@
 ### 第四周：this全面解析
 
 - [【进阶 4-1 期】5种this绑定解析](/progress/4/1.html)
-- [【进阶 4-2 期】call和apply原理、使用场景及实现](/progress/4/2.html)
-- [【进阶 4-3 期】bind原理、使用场景及实现](/progress/4/3.html)
-- [【进阶 4-4 期】深度解析new原理及模拟实现](/progress/4/4.html)
+- [【进阶 4-2 期】JavaScript深入之重新认识箭头函数的this](/progress/4/2.html)
+- [【进阶 4-3 期】call和apply原理、使用场景及实现](/progress/4/3.html)
+- [【进阶 4-4 期】bind原理、使用场景及实现](/progress/4/4.html)
+- [【进阶 4-5 期】深度解析new原理及模拟实现](/progress/4/5.html)
 - 正在努力写作中
 
 ### 第五周：深浅拷贝原理

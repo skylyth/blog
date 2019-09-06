@@ -77,6 +77,22 @@ sidebar: auto
 
 [解析：第 16 题](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/25)
 
+## 第-17-题：介绍下 BFC 及其应用
+
+[解析：第 17 题](/answer/17.html)
+
+## 第-18-题：在 Vue 中，子组件为何不可以修改父组件传递的 Prop，如果修改了，Vue 是如何监控到属性的修改并给出警告的
+
+[解析：第 18 题](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/60)
+
+## 第-19-题：vue 渲染大量数据时应该怎么优化？
+
+[解析：第 19 题](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/233)
+
+## 第-20-题：vue 如何优化首页的加载速度？vue 首页白屏是什么问题引起的？如何解决呢？
+
+[解析：第 20 题](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/234)
+
 <sky-dream></sky-dream>
 
 <style>

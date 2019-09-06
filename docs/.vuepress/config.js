@@ -53,7 +53,8 @@ module.exports = {
                     '/progress/4/1',
                     '/progress/4/2',
                     '/progress/4/3',
-                    '/progress/4/4'
+                    '/progress/4/4',
+                    '/progress/4/5',
                 ]
             },
             {
